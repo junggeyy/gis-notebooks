@@ -1,0 +1,100 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2026-07-08T08:02:15Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "way/211751501",
+        "amenity": "fire_station",
+        "building": "yes"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              85.3609455,
+              27.6961512
+            ],
+            [
+              85.3609134,
+              27.696081
+            ],
+            [
+              85.361013,
+              27.6960452
+            ],
+            [
+              85.3613076,
+              27.6959394
+            ],
+            [
+              85.3613388,
+              27.6960076
+            ],
+            [
+              85.361241,
+              27.6960427
+            ],
+            [
+              85.3614467,
+              27.6964917
+            ],
+            [
+              85.3613592,
+              27.6965231
+            ],
+            [
+              85.361156,
+              27.6965961
+            ],
+            [
+              85.3611203,
+              27.6965181
+            ],
+            [
+              85.3612525,
+              27.6964706
+            ],
+            [
+              85.3610653,
+              27.6960619
+            ],
+            [
+              85.3610531,
+              27.6960663
+            ],
+            [
+              85.3610713,
+              27.696106
+            ],
+            [
+              85.3609455,
+              27.6961512
+            ]
+          ]
+        ]
+      },
+      "id": "way/211751501"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9722113225",
+        "amenity": "fire_station",
+        "name:en": "Mahanagar Fire Briged and Training Center"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.3655427,
+          27.7317598
+        ]
+      },
+      "id": "node/9722113225"
+    }
+  ]
+}
